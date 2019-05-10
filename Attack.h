@@ -9,6 +9,7 @@ public:
     Attack(){};
     Attack(int _power);
     virtual int attack();
+    void definirAtaque(char punch, char saber, char fire);
 };
 
 
