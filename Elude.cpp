@@ -7,6 +7,6 @@ Elude::Elude() {
 }
 
 int Elude::defense() {
-    std::cout << "Clase Hija" << std::endl;
+    //std::cout << "Clase Hija" << std::endl;
     return level;
 }

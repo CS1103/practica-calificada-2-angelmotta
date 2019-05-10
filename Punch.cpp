@@ -8,6 +8,6 @@ Punch::Punch() {
 }
 
 int Punch::attack() {
-    std::cout << "Clase Hija" << std::endl;
+    //std::cout << "Clase Hija" << std::endl;
     return power;
 }
